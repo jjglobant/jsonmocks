@@ -1,13 +1,4 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
    "orden-detalle":{
       "numero-order":"1234ARG",
       "provedor":"Tecnoplantsrl",
@@ -31,5 +22,11 @@
             "informacion":"Medio de pago disponible hasta Abril 8 del 2022."
          }
       ]
-   }
+   },
+    "orden-detalle-500": {
+        "code": "500",
+        "detail": "Internal Server Error",
+        "detail_message": "There is a problem with the resource you want to see and it cannot be displayed."
+    }
+  
 }
